@@ -1,0 +1,31 @@
+id,name,category,genre,description,year,duration,rating
+1,The Shawshank Redemption,Movie,Drama,"Two imprisoned men bond over a number of years finding solace and eventual redemption through acts of common decency.",1994,142 min,9.3
+2,Inception,Movie,Sci-Fi,"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O.",2010,148 min,8.8
+3,Interstellar,Movie,Sci-Fi,"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",2014,169 min,8.6
+4,The Godfather,Movie,Crime,"The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.",1972,175 min,9.2
+5,Pulp Fiction,Movie,Crime,"The lives of two mob hitmen a boxer a gangster and his wife and a pair of diner bandits intertwine in four tales of violence and redemption.",1994,154 min,8.9
+6,The Dark Knight,Movie,Action,"When the menace known as the Joker wreaks havoc and chaos on the people of Gotham Batman must accept one of the greatest psychological and physical tests.",2008,152 min,9.0
+7,Forrest Gump,Movie,Drama,"The presidencies of Kennedy and Johnson the Vietnam War Watergate and other historical events unfold from the perspective of an Alabama man.",1994,142 min,8.8
+8,Fight Club,Movie,Drama,"An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much more.",1999,139 min,8.8
+9,The Matrix,Movie,Sci-Fi,"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",1999,136 min,8.7
+10,Goodfellas,Movie,Crime,"The story of Henry Hill and his life in the mob covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito.",1990,146 min,8.7
+11,Pizza Margherita,Food,Italian,"Classic Italian pizza with tomato sauce mozzarella cheese and fresh basil leaves.",,,4.5
+12,Sushi,Food,Japanese,"Traditional Japanese dish featuring vinegared rice combined with various ingredients including seafood and vegetables.",,,4.7
+13,Chicken Tikka Masala,Food,Indian,"Roasted marinated chicken chunks in spiced curry sauce with a creamy tomato base.",,,4.3
+14,Beef Burger,Food,American,"Juicy beef patty with lettuce tomato onion and cheese served in a sesame seed bun.",,,4.2
+15,Pad Thai,Food,Thai,"Stir-fried rice noodle dish with eggs tofu or shrimp bean sprouts and a tangy tamarind-based sauce.",,,4.4
+16,Caesar Salad,Food,American,"Crisp romaine lettuce with parmesan cheese croutons and Caesar dressing.",,,4.0
+17,Chocolate Cake,Food,Dessert,"Rich moist chocolate cake with chocolate frosting and layers of chocolate ganache.",,,4.6
+18,Fish and Chips,Food,British,"Battered and fried fish served with thick-cut potato chips traditionally wrapped in newspaper.",,,4.1
+19,Ramen,Food,Japanese,"Japanese noodle soup with wheat noodles served in a meat or fish-based broth with various toppings.",,,4.5
+20,Tacos,Food,Mexican,"Traditional Mexican dish with soft or hard tortillas filled with meat vegetables and various toppings.",,,4.3
+21,To Kill a Mockingbird,Book,Fiction,"A young girl's coming-of-age story set in the racially charged atmosphere of 1930s Alabama.",1960,,4.8
+22,1984,Book,Dystopian,"A dystopian social science fiction novel about totalitarian control and surveillance.",1949,,4.7
+23,Pride and Prejudice,Book,Romance,"A romantic novel about the complex relationship between Elizabeth Bennet and Mr. Darcy.",1813,,4.6
+24,The Great Gatsby,Book,Fiction,"A critique of the American Dream set in the Jazz Age of the 1920s.",1925,,4.4
+25,Harry Potter and the Sorcerer's Stone,Book,Fantasy,"A young wizard's journey as he discovers his magical heritage and attends Hogwarts School.",1997,,4.9
+26,The Catcher in the Rye,Book,Fiction,"A controversial coming-of-age story following teenager Holden Caulfield in New York City.",1951,,4.2
+27,Lord of the Flies,Book,Fiction,"A group of British boys stranded on an uninhabited island and their disastrous attempt to govern themselves.",1954,,4.3
+28,The Hobbit,Book,Fantasy,"A hobbit's unexpected journey to help a group of dwarves reclaim their homeland from a dragon.",1937,,4.7
+29,Fahrenheit 451,Book,Dystopian,"A dystopian novel about a future American society where books are outlawed and burned.",1953,,4.5
+30,Jane Eyre,Book,Romance,"An orphaned girl's journey to womanhood and her complex relationship with the brooding Mr. Rochester.",1847,,4.5
